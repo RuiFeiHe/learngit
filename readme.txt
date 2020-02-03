@@ -33,3 +33,9 @@ retract
 'git reset HEAD file' to reset files in ws to master when changes are added to stage
 
 
+lesson 6
+rm
+After 'rm 1.txt', use 'git rm 1.txt' and 'git commit -m "message" '
+Or the delete is wrong and needed to be undo, use 'git checkout -- 1.txt'
+---
+
