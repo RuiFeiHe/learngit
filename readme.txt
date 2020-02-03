@@ -46,3 +46,19 @@ create a new repo on github
 'git push -u origin master' 
 for every time to upload to github, use 'git push origin master'
 ---
+
+lesson 8 
+add a branch
+'git checkout -b dev'
+
+
+
+
+
+
+
+
+
+
+
+
