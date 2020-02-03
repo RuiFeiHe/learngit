@@ -8,10 +8,8 @@ use 'git add readme.txt' and 'git commit -m "..." '
 
 Lesson 2
 After break and return to work, use 'git status' to check if anything is changed
-
-if somthing is changed but not added, use 'git diff'
-
-knowing the difference, we can then add the changed files and commit.
+If somthing is changed but not added, use 'git diff'
+Knowing the difference, we can then add the changed files and commit.
 ---
 
 
@@ -21,4 +19,10 @@ To go to future version, use 'git reflog'to know the id
     and use 'git reset --hard id'
 ---
 
+
+lesson 4
+stage and master
+'git add' to put files into stage
+'git commit' to move files from stage to master
+---
 
