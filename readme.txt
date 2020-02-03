@@ -49,8 +49,11 @@ for every time to upload to github, use 'git push origin master'
 
 lesson 8 
 add a branch
-'git checkout -b dev'
-
+new and swith to a branch: 'git checkout/switch -b dev'
+do tasks and add changes to the branch, add and commit on the sub-branch
+switch back to master: 'git switch master'
+merge:'git merge dev'
+delete dev:'git branch -d dev'
 
 
 
