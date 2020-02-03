@@ -26,3 +26,10 @@ stage and master
 'git commit' to move files from stage to master
 ---
 
+
+lesson 5
+retract
+'git checkout -- file' to reset files in workspace to stage or master when the change is not added
+'git reset HEAD file' to reset files in ws to master when changes are added to stage
+
+
