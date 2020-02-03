@@ -39,3 +39,10 @@ After 'rm 1.txt', use 'git rm 1.txt' and 'git commit -m "message" '
 Or the delete is wrong and needed to be undo, use 'git checkout -- 1.txt'
 ---
 
+
+lesson 7 
+remote, connect to github
+create a new repo on github 
+'git push -u origin master' 
+for every time to upload to github, use 'git push origin master'
+---
